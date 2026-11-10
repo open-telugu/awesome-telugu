@@ -2,9 +2,11 @@
 
 > A curated list of resources for the Telugu language, its literature, culture and technology.
 >
-> తెలుగు భాష, సాహిత్యం, సంస్కృతి, సాంకేతికతకు సంబంధించిన ఉత్తమ వనరుల సంకలనం.
+> తెలుగు నేర్చుకోవాలన్నా, చదవాలన్నా, రాయాలన్నా, తెలుగులో ఏదైనా నిర్మించాలన్నా, కావలసిన మంచి వనరులన్నీ ఒకే చోట.
 
 Telugu is a Dravidian language spoken by more than 80 million people, mainly in Andhra Pradesh and Telangana. This list collects what is most useful for learners, readers, writers, designers, developers and researchers.
+
+(Open Telugu) marks sites by the maintainers of this list.
 
 ## Contents
 
@@ -49,7 +51,6 @@ Telugu is a Dravidian language spoken by more than 80 million people, mainly in 
   - [Telugu Programming Languages](#telugu-programming-languages)
   - [Localization](#localization)
 - [Culture and History](#culture-and-history)
-- [Open Telugu Projects](#open-telugu-projects)
 - [Reference](#reference)
 - [Institutions](#institutions)
 - [Community](#community)
@@ -101,6 +102,7 @@ Telugu is a Dravidian language spoken by more than 80 million people, mainly in 
 - [Project Gutenberg](https://www.gutenberg.org/browse/languages/te) - Telugu titles in the public domain.
 - [Endangered Archives Programme EAP038](https://eap.bl.uk/project/EAP038) - British Library project that digitized pre-1947 Telugu printed materials.
 - [Sundarayya Vignana Kendram](https://sundarayya.org/) - Research centre and library in Hyderabad.
+- [Pustaka Nidhi](https://library.opentelugu.org/) - One catalogue of Telugu books, newspapers, magazines and palm-leaf manuscripts from the Internet Archive (Open Telugu).
 
 ### Magazines
 
@@ -339,20 +341,14 @@ No Telugu-only [Model Context Protocol](https://modelcontextprotocol.io/) server
 - [South-Indian Inscriptions](https://www.whatisindia.com/inscriptions/) - Online text of the inscription volumes.
 - [Telugu Cinema on Wikipedia](https://en.wikipedia.org/wiki/Telugu_cinema) - Overview of the film industry.
 - [Telugu Literature on Wikipedia](https://en.wikipedia.org/wiki/Telugu_literature) - Overview of the literary tradition.
-
-## Open Telugu Projects
-
-Free sites by the maintainers of this list, grouped here so that the self-promotion is clear.
-
-- [Telugu History](https://teluguhistory.org/) - Two thousand years of the Trilinga land, its kingdoms, people and everyday life.
-- [Kakatiya](https://kakatiya.info/) - Evidence-based reference on the Kakatiya dynasty of Warangal, covering sites, inscriptions, architecture and hydraulic works.
-- [Pustaka Nidhi](https://library.opentelugu.org/) - One catalogue of Telugu books, newspapers, magazines and palm-leaf manuscripts from the Internet Archive.
-- [Today](https://today.opentelugu.org/) - Daily page for each district, with weather, news, panchangam and everyday tools.
+- [Telugu History](https://teluguhistory.org/) - Two thousand years of the Trilinga land, its kingdoms, people and everyday life (Open Telugu).
+- [Kakatiya](https://kakatiya.info/) - Evidence-based reference on the Kakatiya dynasty of Warangal, covering sites, inscriptions, architecture and hydraulic works (Open Telugu).
 
 ## Reference
 
 - [Telugu Wikipedia](https://te.wikipedia.org/) - Free encyclopedia in Telugu.
 - [Telugu Language on Wikipedia](https://en.wikipedia.org/wiki/Telugu_language) - Overview of the language, in English.
+- [Today](https://today.opentelugu.org/) - Daily page for each district, with weather, news, panchangam and everyday tools (Open Telugu).
 
 ## Institutions
 
