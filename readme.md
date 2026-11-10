@@ -6,7 +6,7 @@
 
 Telugu is a Dravidian language spoken by more than 80 million people, mainly in Andhra Pradesh and Telangana. This list collects what is most useful for learners, readers, writers, designers, developers and researchers.
 
-(Open Telugu) marks sites by the maintainers of this list.
+(Open Telugu) marks sites by the maintainers of this list. You can also browse the list, with search, at [awesome.opentelugu.org](https://awesome.opentelugu.org/).
 
 ## Contents
 
