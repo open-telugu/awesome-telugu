@@ -14,6 +14,7 @@ Thanks for helping improve this list. Telugu resources in any field are welcome.
 - Pirated books, films, music or scraped copies of paid content.
 - Pages that exist only for advertising or SEO.
 - Abandoned student projects with no documentation or results.
+- City or regional associations. Community lists only established national bodies.
 
 ## Adding an Entry
 

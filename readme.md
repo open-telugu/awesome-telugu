@@ -383,24 +383,18 @@ No Telugu-only [Model Context Protocol](https://modelcontextprotocol.io/) server
 - [TANA](https://tana.org/) - Telugu Association of North America.
 - [ATA](https://americanteluguassociation.org/) - American Telugu Association.
 - [NATS](https://natsworld.org/) - North America Telugu Society, with chapters across the United States.
-- [Telugu Association of Greater Boston](https://www.tagb.org/) - Non-profit for the Telugu community in the Boston area.
 - [Telugu Alliances of Canada](https://www.teluguassociation.ca/) - Community organization running Telugu cultural events in Canada.
-- [Ottawa Telugu Association](https://ottawatelugu.com/) - Non-profit for the Telugu community in Ottawa, founded in 1979.
 
 ### Europe
 
 - [UK Telugu Association](https://www.ukta.org.uk/) - Registered charity for the Telugu community in the United Kingdom.
-- [Telugu Association of London](https://taluk.org/) - Charity preserving Telugu cultural heritage in the United Kingdom.
-- [Preston Telugu Community Association](https://www.venkateswara.co.uk/) - Community association in Preston, established in 1975, with a Telugu school.
 - [Netherlands Telugu Community](https://nltelugucommunity.org/) - Non-profit founded in Amstelveen in 2017.
-- [Austria Telugu Association](https://www.austriatelugus.org/) - Association in Vienna, founded in 2022.
 
 ### Asia and Oceania
 
 - [Singapore Telugu Samajam](https://sts.org.sg/) - Community organization for Telugu people in Singapore.
 - [Telugu Association of Malaysia](https://telugumalaysia.org/) - Non-profit for people of Telugu origin, with branches across Malaysia.
 - [New Zealand Telugu Association](https://www.nzta.org/) - Celebrating Telugu language, culture and community in New Zealand since 1998.
-- [Telugu Association Inc. Sydney](https://www.sydneytelugu.org/) - Non-profit serving the Sydney Telugu community since 1992.
 
 ### Africa
 
