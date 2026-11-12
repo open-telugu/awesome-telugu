@@ -127,6 +127,15 @@ Telugu is a Dravidian language spoken by more than 80 million people, mainly in 
 
 - [TTD e-Publications](https://ebooks.tirumala.org/) - Free publications from Tirumala Tirupati Devasthanams.
 - [Bible as JSON](https://github.com/aruljohn/Bible-telugu) - Telugu Bible as structured JSON.
+- [Holy Bhagavad Gita](https://www.holy-bhagavad-gita.org/index/te/) - Bhagavad Gita verse by verse, with Telugu translation and commentary by Swami Mukundananda.
+- [Gita Supersite](https://heritage.iitk.ac.in/gitasupersite) - Bhagavad Gita with classical commentaries from IIT Kanpur, readable in Telugu script.
+- [Bhagavad Gita on Wikisource](https://te.wikisource.org/wiki/%E0%B0%AD%E0%B0%97%E0%B0%B5%E0%B0%A6%E0%B1%8D%E0%B0%97%E0%B1%80%E0%B0%A4) - Sanskrit text in Telugu script with Telugu translations.
+- [Pothana Telugu Bhagavatam](https://telugubhagavatam.org/) - Pothana's Bhagavatam with word meanings and prose meaning for every poem, with search.
+- [Andhra Bharati Itihasas and Puranas](https://andhrabharati.com/itihAsamulu/index.html) - Texts of the Kavitraya Mahabharatam, Pothana's Bhagavatam and the Molla and Ranganatha Ramayanams.
+- [Sanskrit Documents](https://sanskritdocuments.org/telugu/) - Sanskrit texts in Telugu script, including the Gita, Puranas and stotras.
+- [Vaidika Vignanam](https://vignanam.org/telugu.htm) - Vedic chants, stotras and the Bhagavad Gita in Telugu script.
+- [Stotra Nidhi](https://stotranidhi.com/) - Large collection of stotras in Telugu script.
+- [Sri Vaddiparti Padmakar](https://srivaddipartipadmakar.org/) - Telugu discourses on the eighteen Puranas, the minor Puranas and the epics.
 - [Telugu Bible](https://github.com/FreeBiblesIndia/Telugu_Bible) - Openly licensed text under CC BY-SA 4.0.
 
 ## News
@@ -284,6 +293,7 @@ No Telugu-only [Model Context Protocol](https://modelcontextprotocol.io/) server
 - [IndicHeadlineGeneration](https://huggingface.co/datasets/ai4bharat/IndicHeadlineGeneration) - Headline generation.
 - [IndicParaphrase](https://huggingface.co/datasets/ai4bharat/IndicParaphrase) - Paraphrase generation.
 - [Telugu Alpaca](https://huggingface.co/datasets/Telugu-LLM-Labs/telugu_alpaca_yahma_cleaned_filtered_romanized) - Instruction data in native and romanized Telugu.
+- [Telugu History Sources](https://huggingface.co/datasets/opentelugu/telugu-history-public-domain) - Text of 767 public-domain books and documents on the history of the Telugu land, split into search passages with embeddings, under CC0 (Open Telugu).
 - [Telugu Wikisource Texts](https://github.com/cltk/telugu_text_wikisource) - Classical Telugu texts packaged for the Classical Language Toolkit.
 - [Telugu Newspaper Articles](https://github.com/AnushaMotamarri/Telugu-Newspaper-Article-Dataset) - Scraper for building a news corpus.
 - [Telugu Books Dataset](https://github.com/AnushaMotamarri/Telugu-Books-Dataset) - Scraper for text from Telugu novels.
