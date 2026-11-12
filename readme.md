@@ -355,6 +355,8 @@ No Telugu-only [Model Context Protocol](https://modelcontextprotocol.io/) server
 - [Telugu Wikipedia](https://te.wikipedia.org/) - Free encyclopedia in Telugu.
 - [Telugu Language on Wikipedia](https://en.wikipedia.org/wiki/Telugu_language) - Overview of the language, in English.
 - [Today](https://today.opentelugu.org/) - Daily page for each district, with weather, news, panchangam and everyday tools (Open Telugu).
+- [Margadarshini](https://margam.opentelugu.org/) - Step-by-step guides to government work in Telangana and Andhra Pradesh, such as certificates, pensions, scholarships and licences, each step with its official source (Open Telugu).
+- [Roju Lekkalu](https://roju.opentelugu.org/) - Everyday sums for Telangana and Andhra Pradesh, such as electricity bills, vehicle tax, land registration costs and savings interest, working offline (Open Telugu).
 
 ## Institutions
 
