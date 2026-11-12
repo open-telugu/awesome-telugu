@@ -8,12 +8,17 @@ Thanks for helping improve this list. Telugu resources in any field are welcome.
 - It is live, usable and of good quality.
 - It is not already listed.
 - You would recommend it to a friend. Lists work because they are selective.
+- It has a clear use for Telugu. For a tool that covers many Indian languages, say what it does for Telugu.
+- It has documentation that a newcomer can follow.
+- Its licence or access terms are stated.
 
 ## What Does Not Belong Here
 
 - Pirated books, films, music or scraped copies of paid content.
 - Pages that exist only for advertising or SEO.
 - Abandoned student projects with no documentation or results.
+- AI demos with no setup instructions or results. Working prototypes are listed as experimental.
+- Scrapers presented as datasets. A scraper goes under Corpus Collection Tools.
 - City or regional associations. Community lists only established national bodies.
 
 ## Adding an Entry

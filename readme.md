@@ -19,6 +19,7 @@ Telugu is a Dravidian language spoken by more than 80 million people, mainly in 
 - [Literature](#literature)
   - [Digital Libraries](#digital-libraries)
   - [Magazines](#magazines)
+  - [Children's Reading](#childrens-reading)
   - [Books and Reviews](#books-and-reviews)
   - [Devotional Texts](#devotional-texts)
 - [News](#news)
@@ -43,6 +44,7 @@ Telugu is a Dravidian language spoken by more than 80 million people, mainly in 
   - [Libraries](#libraries)
   - [Language Models](#language-models)
   - [Text Datasets](#text-datasets)
+  - [Corpus Collection Tools](#corpus-collection-tools)
   - [Speech](#speech)
   - [OCR](#ocr)
   - [Poetry and Prosody](#poetry-and-prosody)
@@ -96,6 +98,7 @@ Telugu is a Dravidian language spoken by more than 80 million people, mainly in 
 - [Telugu Wiktionary](https://te.wiktionary.org/) - Community-edited dictionary in Telugu.
 - [SHABDKOSH](https://www.shabdkosh.com/dictionary/english-telugu/) - English-Telugu dictionary.
 - [Bharatavani](https://bharatavani.in/) - Multilingual knowledge portal from the Central Institute of Indian Languages.
+- [IndoWordNet](https://www.cfilt.iitb.ac.in/indowordnet/) - WordNet from IIT Bombay that links Telugu word senses with those of other Indian languages.
 
 ## Literature
 
@@ -115,6 +118,11 @@ Telugu is a Dravidian language spoken by more than 80 million people, mainly in 
 - [Eemaata](https://eemaata.com/) - Volunteer-run literary webzine, published since 1998.
 - [Koumudi](https://www.koumudi.net/) - Monthly web magazine.
 - [Sirimalle](https://sirimalle.com/) - Monthly magazine of Telugu language and culture.
+- [Sanchika](https://sanchika.com/) - Web magazine of Telugu literary writing, with children's stories, travel writing and word puzzles.
+
+### Children's Reading
+
+- [StoryWeaver](https://storyweaver.org.in/en/stories?language=Telugu) - Openly licensed children's stories from Pratham Books, with many in Telugu and sorted by reading level.
 
 ### Books and Reviews
 
@@ -125,18 +133,20 @@ Telugu is a Dravidian language spoken by more than 80 million people, mainly in 
 
 ### Devotional Texts
 
+Works in Telugu come first, followed by Sanskrit works shown in Telugu script.
+
 - [TTD e-Publications](https://ebooks.tirumala.org/) - Free publications from Tirumala Tirupati Devasthanams.
-- [Bible as JSON](https://github.com/aruljohn/Bible-telugu) - Telugu Bible as structured JSON.
+- [Pothana Telugu Bhagavatam](https://telugubhagavatam.org/) - Pothana's Telugu Bhagavatam with word meanings and prose meaning for every poem, with search.
+- [Andhra Bharati Itihasas and Puranas](https://andhrabharati.com/itihAsamulu/index.html) - Telugu texts of the Kavitraya Mahabharatam, Pothana's Bhagavatam and the Molla and Ranganatha Ramayanams.
 - [Holy Bhagavad Gita](https://www.holy-bhagavad-gita.org/index/te/) - Bhagavad Gita verse by verse, with Telugu translation and commentary by Swami Mukundananda.
-- [Gita Supersite](https://heritage.iitk.ac.in/gitasupersite) - Bhagavad Gita with classical commentaries from IIT Kanpur, readable in Telugu script.
-- [Bhagavad Gita on Wikisource](https://te.wikisource.org/wiki/%E0%B0%AD%E0%B0%97%E0%B0%B5%E0%B0%A6%E0%B1%8D%E0%B0%97%E0%B1%80%E0%B0%A4) - Sanskrit text in Telugu script with Telugu translations.
-- [Pothana Telugu Bhagavatam](https://telugubhagavatam.org/) - Pothana's Bhagavatam with word meanings and prose meaning for every poem, with search.
-- [Andhra Bharati Itihasas and Puranas](https://andhrabharati.com/itihAsamulu/index.html) - Texts of the Kavitraya Mahabharatam, Pothana's Bhagavatam and the Molla and Ranganatha Ramayanams.
-- [Sanskrit Documents](https://sanskritdocuments.org/telugu/) - Sanskrit texts in Telugu script, including the Gita, Puranas and stotras.
-- [Vaidika Vignanam](https://vignanam.org/telugu.htm) - Vedic chants, stotras and the Bhagavad Gita in Telugu script.
-- [Stotra Nidhi](https://stotranidhi.com/) - Large collection of stotras in Telugu script.
+- [Bhagavad Gita on Wikisource](https://te.wikisource.org/wiki/%E0%B0%AD%E0%B0%97%E0%B0%B5%E0%B0%A6%E0%B1%8D%E0%B0%97%E0%B1%80%E0%B0%A4) - Sanskrit text in Telugu script, along with Telugu translations.
 - [Sri Vaddiparti Padmakar](https://srivaddipartipadmakar.org/) - Telugu discourses on the eighteen Puranas, the minor Puranas and the epics.
+- [Bible as JSON](https://github.com/aruljohn/Bible-telugu) - Telugu Bible as structured JSON.
 - [Telugu Bible](https://github.com/FreeBiblesIndia/Telugu_Bible) - Openly licensed text under CC BY-SA 4.0.
+- [Gita Supersite](https://heritage.iitk.ac.in/gitasupersite) - Sanskrit text of the Bhagavad Gita with classical commentaries from IIT Kanpur, readable in Telugu script.
+- [Sanskrit Documents](https://sanskritdocuments.org/telugu/) - Sanskrit texts in Telugu script, including the Gita, Puranas and stotras.
+- [Vaidika Vignanam](https://vignanam.org/telugu.htm) - Sanskrit Vedic chants, stotras and the Bhagavad Gita in Telugu script.
+- [Stotra Nidhi](https://stotranidhi.com/) - Large collection of Sanskrit stotras in Telugu script.
 
 ## News
 
@@ -146,9 +156,13 @@ Telugu is a Dravidian language spoken by more than 80 million people, mainly in 
 - [Namasthe Telangana](https://www.ntnews.com/) - Daily newspaper from Telangana.
 - [Prajasakti](https://prajasakti.com/) - Daily newspaper.
 - [Vaartha](https://vaartha.com/) - Daily newspaper.
+- [Andhra Prabha](https://www.andhraprabha.com/) - Long-running daily newspaper.
+- [V6 Velugu](https://www.v6velugu.com/) - Daily newspaper and television channel from Telangana.
 - [BBC News Telugu](https://www.bbc.com/telugu) - Telugu service of the BBC.
 - [TV9 Telugu](https://tv9telugu.com/) - Television news channel.
 - [NTV Telugu](https://ntvtelugu.com/) - Television news channel.
+- [Samayam Telugu](https://telugu.samayam.com/) - News portal of the Times of India group.
+- [Oneindia Telugu](https://telugu.oneindia.com/) - News portal.
 
 ## Typing and Input
 
@@ -236,13 +250,15 @@ Every family below is listed with Telugu support on Google Fonts. [Browse them a
 
 ### MCP Servers
 
-No Telugu-only [Model Context Protocol](https://modelcontextprotocol.io/) server is listed yet. These servers wrap general Indic language APIs.
+No Telugu-only [Model Context Protocol](https://modelcontextprotocol.io/) server is listed yet. These servers wrap general Indic language APIs that include Telugu.
 
-- [Sarvam MCP](https://github.com/sarvamai/sarvam-mcp) - Official server for Sarvam's speech, translation, transliteration and OCR APIs ([docs](https://docs.sarvam.ai/api/developer-tools/mcp)).
+- [Sarvam MCP](https://github.com/sarvamai/sarvam-mcp) - Official server for Sarvam's APIs, which cover Telugu speech recognition, speech synthesis, translation and transliteration ([docs](https://docs.sarvam.ai/api/developer-tools/mcp)).
 - [sarvam-mcp-server](https://github.com/Shobhit-Nagpal/sarvam-mcp-server) - Community server for the Sarvam APIs.
 - [Devnagri Translate MCP](https://github.com/DevnagriAI/devnagriai-translate-mcp) - Translation server focused on Indic languages.
 
 ### Agents
+
+These are experiments and small projects, not finished products.
 
 - [Telugu Agentic RAG](https://github.com/DIVYANSH-TEJA-09/telugu-agentic-rag) - Multi-agent storytelling system with a planner, drafter and critic loop.
 - [Telugu LLM Probe](https://github.com/kishore-ayyadevara/telugu-llm-probe) - Measurement log for building a Telugu assistant on Gemma, including a tool-use dataset.
@@ -250,9 +266,11 @@ No Telugu-only [Model Context Protocol](https://modelcontextprotocol.io/) server
 
 ### Voice Agents
 
+These are experimental prototypes. Expect to set up your own telephony and model accounts.
+
 - [Telugu Phone Voice Agent](https://github.com/vthiruveedhi/voice-agent) - Real-time phone agent built with Twilio, faster-whisper, Ollama and edge-tts.
 - [Telugu and English Voice Agent](https://github.com/gowtham2891/telugu-voice-agent) - Real-time agent for code-mixed speech, built on Sarvam's speech models.
-- [Telugu Voice Agent Prototype](https://github.com/bodavulasiddardha-png/telugu-voice-agent) - Inbound agent on Bolna with a self-hosted Telugu voice.
+- [Telugu Voice Agent Prototype](https://github.com/bodavulasiddardha-png/telugu-voice-agent) - Working prototype of an inbound agent on Bolna with a self-hosted Telugu voice.
 
 ## Language Technology
 
@@ -274,9 +292,9 @@ No Telugu-only [Model Context Protocol](https://modelcontextprotocol.io/) server
 ### Language Models
 
 - [Vemana](https://github.com/udgamlabs/vemana) - A 278M Telugu language model trained from scratch.
-- [Navarasa 2.0](https://huggingface.co/Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0) - Gemma fine-tuned for Indic languages by Telugu LLM Labs.
-- [Sarvam-1](https://huggingface.co/sarvamai/sarvam-1) - Open language model optimized for Indian languages.
-- [IndicBERT v2](https://huggingface.co/ai4bharat/IndicBERTv2-MLM-only) - Multilingual BERT for Indian languages.
+- [Navarasa 2.0](https://huggingface.co/Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0) - Gemma fine-tuned by Telugu LLM Labs to follow instructions in 15 Indian languages, including Telugu.
+- [Sarvam-1](https://huggingface.co/sarvamai/sarvam-1) - Open 2B language model trained on 10 Indian languages, including Telugu.
+- [IndicBERT v2](https://huggingface.co/ai4bharat/IndicBERTv2-MLM-only) - Multilingual BERT covering 23 Indian languages, including Telugu, for classification and tagging tasks.
 
 ### Text Datasets
 
@@ -286,6 +304,7 @@ No Telugu-only [Model Context Protocol](https://modelcontextprotocol.io/) server
 - [Dakshina](https://github.com/google-research-datasets/dakshina) - Native and romanized text for South Asian languages.
 - [Aksharantar](https://huggingface.co/datasets/ai4bharat/Aksharantar) - Large transliteration dataset.
 - [BPCC](https://huggingface.co/datasets/ai4bharat/BPCC) - Bharat Parallel Corpus Collection for translation.
+- [IndicCorp v2](https://huggingface.co/datasets/ai4bharat/IndicCorpV2) - Large monolingual text corpus for Indian languages from AI4Bharat, with a Telugu part.
 - [IndicAlign](https://huggingface.co/datasets/ai4bharat/indic-align) - Instruction and safety datasets for Indic LLMs.
 - [IndicQA](https://huggingface.co/datasets/ai4bharat/IndicQA) - Question answering.
 - [IndicSentiment](https://huggingface.co/datasets/ai4bharat/IndicSentiment) - Sentiment classification.
@@ -295,6 +314,11 @@ No Telugu-only [Model Context Protocol](https://modelcontextprotocol.io/) server
 - [Telugu Alpaca](https://huggingface.co/datasets/Telugu-LLM-Labs/telugu_alpaca_yahma_cleaned_filtered_romanized) - Instruction data in native and romanized Telugu.
 - [Telugu History Sources](https://huggingface.co/datasets/opentelugu/telugu-history-public-domain) - Text of 767 public-domain books and documents on the history of the Telugu land, split into search passages with embeddings, under CC0 (Open Telugu).
 - [Telugu Wikisource Texts](https://github.com/cltk/telugu_text_wikisource) - Classical Telugu texts packaged for the Classical Language Toolkit.
+
+### Corpus Collection Tools
+
+These are scrapers for building your own corpus, not ready-made datasets.
+
 - [Telugu Newspaper Articles](https://github.com/AnushaMotamarri/Telugu-Newspaper-Article-Dataset) - Scraper for building a news corpus.
 - [Telugu Books Dataset](https://github.com/AnushaMotamarri/Telugu-Books-Dataset) - Scraper for text from Telugu novels.
 
@@ -303,6 +327,7 @@ No Telugu-only [Model Context Protocol](https://modelcontextprotocol.io/) server
 - [IndicVoices](https://huggingface.co/datasets/ai4bharat/IndicVoices) - Natural speech dataset across 22 Indian languages.
 - [Shrutilipi](https://huggingface.co/datasets/ai4bharat/Shrutilipi) - Speech corpus for Indian languages.
 - [OpenSLR 66](https://www.openslr.org/66/) - Crowdsourced multi-speaker Telugu speech dataset.
+- [Common Voice Telugu](https://commonvoice.mozilla.org/te) - Mozilla's crowdsourced, openly licensed speech dataset, where anyone can record or check Telugu sentences.
 - [Telugu ASR Dataset](https://github.com/PAGADALA-USHA/TELUGU-DATASET) - Common words spoken by native speakers from Andhra Pradesh and Telangana.
 - [IndicConformer](https://github.com/AI4Bharat/IndicConformerASR) - Speech recognition for Indian languages.
 - [IndicWav2Vec](https://github.com/AI4Bharat/IndicWav2Vec) - Pretraining and fine-tuning scripts for Indic speech recognition.
@@ -318,6 +343,7 @@ No Telugu-only [Model Context Protocol](https://modelcontextprotocol.io/) server
 ### OCR
 
 - [Tesseract Telugu Model](https://github.com/tesseract-ocr/tessdata_best/blob/main/tel.traineddata) - Trained LSTM model for Tesseract.
+- [Surya](https://github.com/datalab-to/surya) - OCR and layout analysis toolkit for over 90 languages, including Telugu. Model weights are free for research, personal use and small companies only.
 - [TeluguOCR](https://github.com/harsha-desaraju/TeluguOCR) - Recent OCR model for Telugu.
 - [Banti](https://github.com/rakeshvar/banti_telugu_ocr) - End-to-end OCR based on convolutional networks.
 - [Handwritten Telugu Recognition](https://github.com/Harathi123/Telugu-Character-Recognition-using-CNN) - Character recognition using CNNs.
@@ -334,11 +360,11 @@ No Telugu-only [Model Context Protocol](https://modelcontextprotocol.io/) server
 
 - [React Docs in Telugu](https://github.com/reactjs/te.react.dev) - Community translation of the React documentation, in progress.
 - [Modern JavaScript Tutorial](https://github.com/javascript-tutorial/te.javascript.info) - Telugu translation of javascript.info.
-- [HTML and CSS Full Course](https://github.com/racharlasrikanth/HtmlCssFullCourseTelugu) - Code for a free YouTube course.
-- [JavaScript Full Course](https://github.com/racharlasrikanth/JavaScriptFullCourseTelugu) - Course code.
+- [HTML and CSS Full Course](https://github.com/racharlasrikanth/HtmlCssFullCourseTelugu) - Code that accompanies a free YouTube course, not a course on its own.
+- [JavaScript Full Course](https://github.com/racharlasrikanth/JavaScriptFullCourseTelugu) - Code that accompanies a video course, not a course on its own.
 - [Flutter Programming in Telugu](https://github.com/narimetisaigopi/flutter_programming_in_telugu) - Flutter tutorials for beginners.
 - [Learn Python in 30 Days](https://github.com/narimetisaigopi/learnpythonin30days_telugu) - Python course in Telugu.
-- [MERN Stack in Telugu](https://github.com/teluguskillhub/mern-stack-in-telugu) - Course code.
+- [MERN Stack in Telugu](https://github.com/teluguskillhub/mern-stack-in-telugu) - Code that accompanies a video course, not a course on its own.
 
 ### Telugu Programming Languages
 
@@ -364,6 +390,10 @@ No Telugu-only [Model Context Protocol](https://modelcontextprotocol.io/) server
 
 - [Telugu Wikipedia](https://te.wikipedia.org/) - Free encyclopedia in Telugu.
 - [Telugu Language on Wikipedia](https://en.wikipedia.org/wiki/Telugu_language) - Overview of the language, in English.
+- [Telugu Wikibooks](https://te.wikibooks.org/) - Free textbooks and manuals in Telugu.
+- [Telugu Wikiquote](https://te.wikiquote.org/) - Collection of quotations in Telugu.
+- [Vikaspedia Telugu](https://te.vikaspedia.in/) - Government of India knowledge portal in Telugu on health, farming, education, welfare schemes and e-governance.
+- [Drik Panchang](https://www.drikpanchang.com/telugu/panchanga/telugu-day-panchanga.html) - Daily Telugu panchangam for any place and date.
 - [Today](https://today.opentelugu.org/) - Daily page for each district, with weather, news, panchangam and everyday tools (Open Telugu).
 - [Margadarshini](https://margam.opentelugu.org/) - Step-by-step guides to government work in Telangana and Andhra Pradesh, such as certificates, pensions, scholarships and licences, each step with its official source (Open Telugu).
 - [Roju Lekkalu](https://roju.opentelugu.org/) - Everyday sums for Telangana and Andhra Pradesh, such as electricity bills, vehicle tax, land registration costs and savings interest, working offline (Open Telugu).
@@ -374,6 +404,7 @@ No Telugu-only [Model Context Protocol](https://modelcontextprotocol.io/) server
 - [Dravidian University](https://www.dravidianuniversity.ac.in/) - University in Kuppam for the study of Dravidian languages.
 - [Sahitya Akademi](https://sahitya-akademi.gov.in/) - India's national academy of letters.
 - [Central Institute of Indian Languages](https://www.ciil.org/) - Government of India institute for language research and teaching.
+- [Centre of Excellence for Studies in Classical Telugu](https://cesct.ciil.org/) - Research centre for classical Telugu, covering inscriptions, grammar, folklore and history.
 - [LTRC, IIIT Hyderabad](https://ltrc.iiit.ac.in/) - Language Technologies Research Centre.
 - [AI4Bharat](https://ai4bharat.iitm.ac.in/) - Open language AI research for Indian languages at IIT Madras.
 
